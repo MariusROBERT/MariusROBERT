@@ -29,6 +29,8 @@ My activities when I'm not coding are :
 <a href="https://devdocs.io/c/"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"></a>
 <a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariusROBERT&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 #### I use and recommend these tools a lot :
 
 <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"></a>
@@ -42,6 +44,5 @@ My activities when I'm not coding are :
 
 ## My interests
 
-I love to develop mini-games and tiny but usefull tools (like discord bots for example) mainly.
-
+I love to develop mini-games and tiny but usefull tools (like discord bots for example) mainly.  
 I'm very interested in Image Processing, Algorithms and Time saving tools.
