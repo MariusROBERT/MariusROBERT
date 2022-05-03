@@ -4,7 +4,7 @@
 
 ## About me
 
-Hi, I'm Marius, a french developer from France, I'm currently studying computer science.
+Hi, I'm Marius, a french developer from the moutains in the Alps, I'm currently studying computer science.
 
 My activities when I'm not coding are :
 
