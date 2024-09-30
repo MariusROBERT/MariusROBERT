@@ -22,8 +22,10 @@ My activities when I'm not coding are :
 #### I code in  these languages :
 
 <a href="https://react.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"></a>
+<a href="https://nestjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"></a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
+<a href="https://php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"></a>
 <a href="https://www.cplusplus.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"></a>
 <a href="https://devdocs.io/c/"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"></a>
 <a href="https://python.org"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></a>
